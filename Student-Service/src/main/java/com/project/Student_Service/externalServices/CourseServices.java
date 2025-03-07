@@ -11,4 +11,7 @@ public interface CourseServices {
     @GetMapping("/getById/{id}")
     public CourseDTO getCourseById(@PathVariable("id") long CourseId);
 
+    @GetMapping("/getByIdForStudent/{courseId}")
+    public CourseDTO getCourseByIdForStudent(@PathVariable long courseId);
+
 }

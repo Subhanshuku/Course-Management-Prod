@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.project</groupId>
-	<artifactId>Course-Management(Monolithic)</artifactId>
+	<artifactId>Course-Management</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Course-Management</name>
 	<description>Project for Interim</description>
